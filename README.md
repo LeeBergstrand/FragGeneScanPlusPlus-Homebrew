@@ -1,2 +1,2 @@
-# FragGeneScanPlusPlus-Homebrew
+# homebrew-FragGeneScanPlusPlus
 Homebrew formula for FragGeneScanPlusPlus
