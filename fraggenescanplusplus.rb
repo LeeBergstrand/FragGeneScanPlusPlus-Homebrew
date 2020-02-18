@@ -8,7 +8,7 @@ class Fraggenescanplusplus < Formula
   head "https://github.com/unipept/FragGeneScanPlusPlus.git"
 
   def install
-    system "make"--build-from-source
+    system "make"
     bin.install "FGSpp"
   end
 end
