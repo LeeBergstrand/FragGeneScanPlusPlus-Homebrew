@@ -1,5 +1,5 @@
 class Fraggenescanplusplus < Formula
-   desc "FGS++ is an improved version of FGS+ which is a parallelized version of FragGeneScan."
+   desc "FGS++ is an improved version of FGS+, which is a parallelized version of FragGeneScan."
    homepage "https://github.com/LeeBergstrand/FragGeneScanPlusPlus"
    url "https://github.com/LeeBergstrand/FragGeneScanPlusPlus/archive/v0.2.zip"
    version "0.2"
